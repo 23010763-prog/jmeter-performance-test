@@ -18,7 +18,7 @@
 ---
 
 ### 2. Kết quả & Chỉ số đo lường chi tiết
-<img width="1626" height="923" alt="api2" src="https://github.com/user-attachments/assets/c6673434-261f-4a3f-a154-5e6cc5415f60" />
+<img width="1642" height="918" alt="web" src="https://github.com/user-attachments/assets/36f2dd8c-0a6f-438a-b0c1-cdf53748c198" />
 
 
 
@@ -63,7 +63,7 @@
 ---
 
 ### 2. Kết quả & Chỉ số đo lường chi tiết
-<img width="1642" height="918" alt="web" src="https://github.com/user-attachments/assets/36f2dd8c-0a6f-438a-b0c1-cdf53748c198" />
+<img width="1626" height="923" alt="api2" src="https://github.com/user-attachments/assets/c6673434-261f-4a3f-a154-5e6cc5415f60" />
 
 
 ![Kết quả kiểm thử API Overview](images/api_report.png)
