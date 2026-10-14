@@ -99,5 +99,5 @@
 
 ### 3. Phân tích & Kết luận bài API
 * **Kết luận:** Mức tải 10,000 người dùng ảo đồng thời đã **vượt quá ngưỡng chịu đựng tối đa (Over-capacity / Stress Limit)** của cả hạ tầng mạng client và máy chủ API `ReqRes`
-* **Đánh giá:** Tỷ lệ lỗi $100\%$ cùng các phản hồi HTTP 429 cho thấy máy chủ API chặn các đợt truy cập bất thường để tự bảo vệ dịch vụ<img width="1642" height="918" alt="web" src="https://github.com/user-attachments/assets/d16d7ae3-6778-4545-831e-0cd5d422c54a" />
+* **Đánh giá:** Tỷ lệ lỗi $100\%$ cùng các phản hồi HTTP 429 cho thấy máy chủ API chặn các đợt truy cập bất thường để tự bảo vệ dịch vụ
 . Cần hạ thấp mức tải (ví dụ: 100 - 500 threads) hoặc giãn rộng thời gian Ramp-up period để đo lường ngưỡng chịu tải thực sự của API này.
